@@ -17,11 +17,10 @@ Web Development, and Gaming
      You can also mention hobbies — it makes your profile feel human. -->
 ## About me
 
-- 🎓 Studying [Degree] at [University]
-- 💻 Currently learning [language or framework]
-- 🌱 Building my first [type of project]
-- ⚡ Fun fact: [something interesting about you]
-
+- 🎓 Studying Computer Science
+- 💻 Currently learning Python
+- 🌱 Building my first python project
+- ⚡ Fun fact: god at chatgpt
 ---
 
 <!-- SKILLS SECTION
@@ -55,8 +54,8 @@ Web Development, and Gaming
      Only include links you actually want people to use. -->
 ## Let's connect
 
-- 📧 [your.email@example.com](mailto:your.email@example.com)
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 [santosjonnardenzo@gmail.com](mailto:santosjonnardenzo@gmail.com)
+- 💼 [LinkedIn](https://ph.linkedin.com/in/jonnardenzo)
 
 <!-- ============================================================
      TIP: After editing, go to github.com/[yourusername]/[yourusername]
