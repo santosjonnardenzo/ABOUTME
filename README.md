@@ -42,12 +42,6 @@ Web Development, and Gaming
      Highlight 1–3 projects you're proud of.
      Link to the repo or a live demo if you have one. -->
 ## Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Project Name](https://github.com/yourusername/repo) | What it does in one line | Python, Flask |
-| [Project Name](https://github.com/yourusername/repo) | What it does in one line | HTML, JS |
-
 ---
 
 <!-- CONTACT SECTION
